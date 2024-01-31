@@ -18,6 +18,8 @@ public class TestApplication {
     * */
 
 
+// ctrl-/ 하면 각주화 된다
+
     //복사예시
     //복사예시
     //복사예시
