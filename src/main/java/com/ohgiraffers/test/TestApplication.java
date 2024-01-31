@@ -14,7 +14,7 @@ public class TestApplication {
 
     /*
     *  ctrl - space : 자동완성 기능
-    *  ctrl - d : 복제
+    *  ctrl - d : 복제 (커서 위치 옮기지 않아도 자동완성 깨지지 않으니 커서 움직이지 말고 바로 누른다)
     * */
 
 
@@ -34,8 +34,10 @@ public class TestApplication {
 
     }
 
-    //sout : systemout.printLn 단축기
-    //shift - F10로그 : 프로그램 실행 단축키
+    //sout : System.out.println() 단축기
+    //shift - F10  로그 : 프로그램 실행 단축키
+    //shift - F6    :class 이름 바꾸기
+    //shift - ent   :커서가 어디있는 다음 줄로 커서 옮기기
 
 
 }
